@@ -1,7 +1,7 @@
 # Dashboards 
-[Windows Servers Overview](docs/Dashboard.WindowsServersOverview.md)  
-[Windows Server](docs/Dashboard.WindowsServer.md)  
-[Windows Servers Network Overview](docs/Dashboard.WindowsServersNetworkOverview.md)  
+[Windows Servers Overview](docs/Dashboard.WindowsServersOverview.md)  (Get it from [grafana.com](https://grafana.com/grafana/dashboards/21204-windows-servers-overview/))  
+[Windows Server](docs/Dashboard.WindowsServer.md)    (Get it from [grafana.com](https://grafana.com/grafana/dashboards/21203-windows-server/))  
+[Windows Servers Network Overview](docs/Dashboard.WindowsServersNetworkOverview.md)    (Get it from [grafana.com](https://grafana.com/grafana/dashboards/21206-network-overview/))  
 
 All Windows dashboards use [Prometheus](https://prometheus.io/) for their datasource, and collect metrics via [windows_exporter](https://github.com/prometheus-community/windows_exporter).
 
